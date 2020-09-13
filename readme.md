@@ -5,5 +5,5 @@ Player portable de la webradio RDT radio à installer sur son site/blog.
 
 Code à copier/coller sur votre site : 
 
-#####<!--Le code ifram à copier/coller sur votre site-->
+<!--Le code ifram à copier/coller sur votre site-->
     <iframe src="player.html" width="330" height="460"></iframe>
