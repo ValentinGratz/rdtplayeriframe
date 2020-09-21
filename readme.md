@@ -11,3 +11,10 @@ Code à copier/coller sur votre site :
 
 
 Lien demo : https://valentingratz.github.io/rdtplayeriframe.github.io/index_player.html
+
+## Changelog 
+v 0.0.1 : version initiale
+
+## Reste à faire - à modifier :
+- revoir css (bord arrondi)
+- changer le player
