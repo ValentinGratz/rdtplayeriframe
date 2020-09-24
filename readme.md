@@ -14,7 +14,7 @@ Lien demo : https://valentingratz.github.io/rdtplayeriframe.github.io/index_play
 
 ## Changelog 
 v 0.0.1 : version initiale
+v 0.0.2 : css revu (bord arrondi)
 
 ## Reste à faire - à modifier :
-- revoir css (bord arrondi)
 - changer le player
