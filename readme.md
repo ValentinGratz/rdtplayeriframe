@@ -1,5 +1,5 @@
 # Player RDT radio Portable
-version 0.0.1
+version 0.0.2
 
 Player portable de la webradio RDT radio à installer sur son site/blog.
 
