@@ -17,7 +17,7 @@ Code à copier/coller sur votre site : (version paysage)
 
 Lien demo : https://valentingratz.github.io/rdtplayeriframe/index_player.html
 
-Lien demo version paysage : https://valentingratz.github.io/rdtplayeriframe/rdt-iframe_paysage/index_player.html 
+Lien demo version paysage : https://valentingratz.github.io/rdtplayeriframe/rdt-iframe paysage/index_player.html (lien à copier/coller en entier, jusqu'au .html)
 
 ## Changelog 
 - v 0.0.1 : version initiale
