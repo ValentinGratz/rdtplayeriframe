@@ -13,8 +13,8 @@ Code à copier/coller sur votre site :
 Lien demo : https://valentingratz.github.io/rdtplayeriframe.github.io/index_player.html
 
 ## Changelog 
-v 0.0.1 : version initiale
-v 0.0.2 : css revu (bord arrondi)
+- v 0.0.1 : version initiale
+- v 0.0.2 : css revu (bord arrondi)
 
 ## Reste à faire - à modifier :
 - changer le player
