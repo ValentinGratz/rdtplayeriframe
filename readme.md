@@ -10,7 +10,7 @@ Code à copier/coller sur votre site :
 
 
 
-Lien demo : https://valentingratz.github.io/rdtplayeriframe.github.io/index_player.html
+Lien demo : https://valentingratz.github.io/rdtplayeriframe/index_player.html
 
 ## Changelog 
 - v 0.0.1 : version initiale
