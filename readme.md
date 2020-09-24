@@ -1,20 +1,25 @@
 # Player RDT radio Portable
-version 0.0.2
+version 0.0.3
 
 Player portable de la webradio RDT radio à installer sur son site/blog.
 
-Code à copier/coller sur votre site : 
+Code à copier/coller sur votre site : (version portrait)
 
-<!--Le code ifram à copier/coller sur votre site-->
-    <iframe src="https://valentingratz.github.io/rdtplayeriframe.github.io/player.html" width="330" height="460"></iframe>
+<!--Le code iframe à copier/coller sur votre site-->
+    <iframe src="https://valentingratz.github.io/rdtplayeriframe/player.html" width="330" height="460"></iframe>
 
+
+Code à copier/coller sur votre site : (version paysage)
+
+<!--Le code iframe a copier/coller sur votre site-->
+    <iframe src="https://valentingratz.github.io/rdtplayeriframe/rdt-iframe paysage/index_player.html" width="330" height="460"></iframe>
 
 
 Lien demo : https://valentingratz.github.io/rdtplayeriframe/index_player.html
 
+Lien demo version paysage : https://valentingratz.github.io/rdtplayeriframe/rdt-iframe_paysage/index_player.html 
+
 ## Changelog 
 - v 0.0.1 : version initiale
 - v 0.0.2 : css revu (bord arrondi)
-
-## Reste à faire - à modifier :
-- changer le player
+- v 0.0.3 : version paysage disponible en plus de la version portrait
