@@ -23,3 +23,4 @@ Lien demo version paysage : https://valentingratz.github.io/rdtplayeriframe/rdt-
 - v 0.0.1 : version initiale
 - v 0.0.2 : css revu (bord arrondi)
 - v 0.0.3 : version paysage disponible en plus de la version portrait
+            compatible avec la nouvelle version du CMS StreamRadio
